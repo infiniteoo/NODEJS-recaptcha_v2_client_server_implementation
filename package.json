@@ -1,0 +1,20 @@
+{
+  "name": "NODEJS-recaptcha_v2_client_server_implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infiniteoo/NODEJS-recaptcha_v2_client_server_implementation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infiniteoo/NODEJS-recaptcha_v2_client_server_implementation/issues"
+  },
+  "homepage": "https://github.com/infiniteoo/NODEJS-recaptcha_v2_client_server_implementation#readme"
+}
