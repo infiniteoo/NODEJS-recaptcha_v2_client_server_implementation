@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/infiniteoo/NODEJS-recaptcha_v2_client_server_implementation/issues"
   },
-  "homepage": "https://github.com/infiniteoo/NODEJS-recaptcha_v2_client_server_implementation#readme"
+  "homepage": "https://github.com/infiniteoo/NODEJS-recaptcha_v2_client_server_implementation#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^3.0.0"
+  }
 }
